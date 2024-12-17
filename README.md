@@ -1,4 +1,4 @@
-# Hi there! I'm Fathy Saeed Fathy 👋
+# Hi there! I'm Fathy said 👋
 
 **Frontend Developer | Web Development**
 
