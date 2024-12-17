@@ -23,7 +23,7 @@ I'm a passionate **Frontend Developer** with of experience specializing in creat
 ---
 
 ### ✨ Fun Fact
-When I'm not coding, I love learning new frameworks, exploring the latest tech trends, and occasionally diving into **Vue.js | Flutter **!
+When I'm not coding, I love learning new frameworks, exploring the latest tech trends, and occasionally diving into **Vue.js | Flutter**!
 
 ---
 
