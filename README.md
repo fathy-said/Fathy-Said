@@ -17,7 +17,7 @@ I'm a passionate **Frontend Developer** with of experience specializing in creat
 ---
 
 ### 🔗 Let's Connect
-- **LinkedIn:** [Fathy Saeed Fathy](https://www.linkedin.com/in/fathy-said-5997a124b/)
+- **LinkedIn:** [Fathy Fathy](https://www.linkedin.com/in/fathy-said-5997a124b/)
 - **GitHub:** You're already here!
 
 ---
@@ -28,7 +28,7 @@ When I'm not coding, I love learning new frameworks, exploring the latest tech t
 ---
 
 ### 🎨 GitHub Stats
-![Fathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathySaeed&show_icons=true&theme=tokyonight)
+![Fathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathy-said&show_icons=true&theme=tokyonight)
 
 ---
 
