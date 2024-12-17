@@ -27,10 +27,5 @@ When I'm not coding, I love learning new frameworks, exploring the latest tech t
 
 ---
 
-### 🎨 GitHub Stats
-![Fathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathy-said&show_icons=true&theme=tokyonight)
-
----
-
 Thanks for stopping by, and happy coding! 🚀
 
