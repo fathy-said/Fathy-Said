@@ -2,7 +2,7 @@
 
 **Software Engineering | Frontend Developer**
 
-I’m a **Front-End Developer** based in **Cairo, Egypt**, with **4+ years of experience** crafting modern, scalable, and user-friendly web applications.  
+I’m a **Front-End Developer** with **4+ years of experience** crafting modern, scalable, and user-friendly web applications.  
 My focus is on building **clean, maintainable components** and delivering **high-performance solutions**, while staying up to date with the latest technologies and best practices in front-end development.  
 
 ---
